@@ -173,3 +173,16 @@ distributed under the License is distributed on an "AS IS" BASIS, WITHOUT
 WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.  See the
 License for the specific language governing permissions and limitations under
 the License.
+
+
+Question: A project manager leads a software development project in a hybrid environment. During project planning, the project manager identified a risk where a technical resource for a critical path item may not be available when needed. One week before the resource is needed, the technical engineer had a personal emergency and had to take a leave. What should the project manager do next?
+A:Consult the risk register for an appropriate planned risk response and implement.Correct Answer
+B:Revise the project management plan and move the task to a time when the technical resource will be available.
+C:Review the business requirement with stakeholders and exclude the task assigned to the technical resource.
+D:Update the lessons learned report and the risk log to reflect that this risk has materialized.
+
+Question: A team has just adopted an agile approach. During daily standup meetings, the team expressed concerns about task delays. The project leader worked with the product owner to get clarity on the features. The project leader asked the team to fast-track all product features to ensure delivery. Sprints are being completed but with either fewer features or low quality. What should the project leader have done to ensure success?
+A:Asked the team to create an impediment log and keep it updated for use in the next sprint planning
+B:Directed teams to possible solutions that help in removing the impediments and contribute to a timely delivery
+C:Suggested to the team to add impediments as work items in the product backlog to be fixed in the next sprints
+D:Empowered the team to improve their processes, tools, and interactions to be more effective in delivery and removing impediments
